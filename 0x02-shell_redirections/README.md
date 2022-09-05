@@ -1,3 +1,5 @@
+Shell Redirections
+
 0. “Hello, World”, followed by the standard output.
 1. displays a confused smiley "(Ôo)'
 2. content of the /etc/passwd file.
