@@ -1,8 +1,7 @@
-# This project is for learning:
+# Shell Variables & Expansions project:
 - Shell initialization files
 - Variables
 - Expansions
 - Shell Arithmetic
 - Alias command
 
-And a few other things on the way :)
