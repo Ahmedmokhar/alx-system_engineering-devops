@@ -5,4 +5,3 @@
 - Shell Arithmetic
 - Alias command
 
-And a few other things on the way :)
