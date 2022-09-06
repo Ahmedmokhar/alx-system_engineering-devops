@@ -1,4 +1,4 @@
-# Shell Variables Expansions project:
+# Shell Variables & Expansions project:
 - Shell initialization files
 - Variables
 - Expansions
