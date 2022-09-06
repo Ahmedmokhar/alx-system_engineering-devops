@@ -1,4 +1,4 @@
-# This project is for learning:
+# Shell Variables Expansions project:
 - Shell initialization files
 - Variables
 - Expansions
