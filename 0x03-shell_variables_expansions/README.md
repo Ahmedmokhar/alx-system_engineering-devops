@@ -1,5 +1,5 @@
 # Shell Variables & Expansions project:
-- Shell initialization files
+- Shell initialization 
 - Variables
 - Expansions
 - Shell Arithmetic
